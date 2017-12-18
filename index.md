@@ -2,7 +2,4 @@
 
 suggestions are welcome :[My CSDN URL](http://blog.csdn.net/lao4j) 
 
-### Markdown
 +
-+hope I'll grow stronger
-+```markdown
